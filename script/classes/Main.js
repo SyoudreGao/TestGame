@@ -2,7 +2,7 @@ let objPlayer;
 let playerImage;
 
 function preload(){
-	loadImage("https://github.com/SyoudreGao/TestGame/blob/main/script/texture/Player.png", success, failure);
+	loadImage("script/texture/Player.png", success, failure);
 }
 
 function setup(){
